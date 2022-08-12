@@ -1,0 +1,21 @@
+{
+   "Tree Branch": {
+        "ItemCatagory":	"Resource",
+	"StackSize": 99,
+	"Description": "A sturdy tree branch"
+   },
+   "StarterMiningDrill": {
+        "ItemCatagory": "Tool",
+        "AddHealth": 5,
+        "AddEnergy": 32,
+        "StackSize": 10,
+        "Description": "Nice for drilling"
+    },
+    "M4": {
+        "ItemCatagory": "Weapon",
+        "ItemAttack": 3,
+        "ItemSpeed": 0.75,
+        "StackSize": 10,
+        "Description": "Quite a nice gun"
+    }
+}

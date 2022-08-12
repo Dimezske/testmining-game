@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Assets/Characters/center4dieseasecontrol.png" type="Texture" id=1]
+
+[node name="CDC_HAZMAT" type="Node2D"]
+
+[node name="CDC_HAZMATSprite" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+hframes = 24
